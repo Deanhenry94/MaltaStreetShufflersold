@@ -1,1 +1,1 @@
-﻿alert("Custom Javascript is working!");
+﻿//alert("Custom Javascript is working!");
