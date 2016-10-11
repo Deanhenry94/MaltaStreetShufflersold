@@ -112,8 +112,8 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="CustomeScripts\myScripts.js" />
-    <Content Include="CustomStyles\myStyles.css" />
+    <Content Include="Custom Scripts\myScripts.js" />
+    <Content Include="Custom Styles\myStyles.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="HTML\about.html" />
     <Content Include="HTML\index.html" />
