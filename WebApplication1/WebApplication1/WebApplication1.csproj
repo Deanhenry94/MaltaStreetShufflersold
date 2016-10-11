@@ -193,6 +193,8 @@
     <Content Include="Boss Theme Files\js\skrollr.min.js" />
     <Content Include="Boss Theme Files\js\smoothscroll.js" />
     <Content Include="Boss Theme Files\js\sticky.js" />
+    <Content Include="Boss Theme Files\js\twitter\jquery.tweet.js" />
+    <Content Include="Boss Theme Files\js\twitter\jquery.tweet.min.js" />
     <Content Include="Boss Theme Files\js\typed.js" />
     <Content Include="Boss Theme Files\js\typed.min.js" />
     <Content Include="Boss Theme Files\js\waypoints-sticky.js" />
@@ -222,6 +224,13 @@
     <Content Include="Boss Theme Files\fonts\Simple-Line-Icons.eot" />
     <Content Include="Boss Theme Files\fonts\Simple-Line-Icons.ttf" />
     <Content Include="Boss Theme Files\fonts\Simple-Line-Icons.woff" />
+    <Content Include="Boss Theme Files\php\class.phpmailer.php" />
+    <Content Include="Boss Theme Files\php\class.smtp.php" />
+    <Content Include="Boss Theme Files\php\index.php" />
+    <Content Include="Boss Theme Files\php\mail.php" />
+    <Content Include="Boss Theme Files\js\twitter\index.php" />
+    <Content Include="Boss Theme Files\js\twitter\lib\tmhOAuth.php" />
+    <Content Include="Boss Theme Files\js\twitter\lib\tmhUtilities.php" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
