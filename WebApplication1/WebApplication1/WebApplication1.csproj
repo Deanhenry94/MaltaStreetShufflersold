@@ -204,6 +204,7 @@
     <Content Include="Boss Theme Files\js\wow.js" />
     <Content Include="Boss Theme Files\js\wow.min.js" />
     <Content Include="HTML\contact.html" />
+    <Content Include="HTML\index.html" />
     <Content Include="HTML\videos.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -249,7 +250,6 @@
     <Content Include="Custom Styles\myStyles.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="HTML\about.html" />
-    <Content Include="HTML\index.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
