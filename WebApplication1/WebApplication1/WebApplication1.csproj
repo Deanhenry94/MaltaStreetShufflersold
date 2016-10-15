@@ -204,6 +204,7 @@
     <Content Include="Boss Theme Files\js\wow.js" />
     <Content Include="Boss Theme Files\js\wow.min.js" />
     <Content Include="HTML\contact.html" />
+    <Content Include="HTML\header.html" />
     <Content Include="HTML\index.html" />
     <Content Include="HTML\videos.html" />
     <Content Include="packages.config" />
