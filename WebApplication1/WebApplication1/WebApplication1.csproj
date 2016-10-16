@@ -747,7 +747,6 @@
     <Content Include="Custom Scripts\myScripts.js" />
     <Content Include="Custom Styles\myStyles.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="HTML\about.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
