@@ -704,6 +704,8 @@
     <Content Include="HTML\header.html" />
     <Content Include="HTML\index.html" />
     <Content Include="HTML\videos.html" />
+    <Content Include="MSS Images\11987123_10153627895523147_874921116926024854_n.jpg" />
+    <Content Include="MSS Images\DSC_0018.JPG" />
     <Content Include="MSS Images\favicon.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
