@@ -707,6 +707,8 @@
     <Content Include="MSS Images\11987123_10153627895523147_874921116926024854_n.jpg" />
     <Content Include="MSS Images\DSC_0018.JPG" />
     <Content Include="MSS Images\favicon.png" />
+    <Content Include="MSS Images\kyne van Blerk likes.png" />
+    <Content Include="MSS Images\kyne van blerk.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
