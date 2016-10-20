@@ -712,6 +712,9 @@
     <Content Include="MSS Images\favicon.png" />
     <Content Include="MSS Images\kyne van Blerk likes.png" />
     <Content Include="MSS Images\kyne van blerk.jpg" />
+    <Content Include="MSS Images\luzzu.jpg" />
+    <Content Include="MSS Images\maltaharbour.jpg" />
+    <Content Include="MSS Images\sea.jpg" />
     <Content Include="MSS Images\whatwedo.jpg" />
     <Content Include="MSS Images\whatwedo2.jpg" />
     <Content Include="packages.config" />
